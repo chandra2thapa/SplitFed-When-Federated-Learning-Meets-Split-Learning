@@ -3,9 +3,12 @@
 Releasing the source code version1 of our work "SplitFed: When Federated Learning Meets Split Learning."
 
 We have three versions of our programs:
-Version1: without using socket and no DP+PixelDP\\
-Version2: with using socket but no DP+PixelDP\\
-Version3: without using socket but with DP+PixelDP (required more packages)\\
+
+Version1: without using socket and no DP+PixelDP
+
+Version2: with using socket but no DP+PixelDP
+
+Version3: without using socket but with DP+PixelDP (required more packages)
 
 Other versions will be released soon.
 
